@@ -27,12 +27,11 @@ venv*/
 env*/
 .venv_youtube_transcripts/
 
-# VSCode settings
-.vscode/
 *.code-workspace
 
 # Logs
 *.log
+logs/
 
 # Jupyter
 .ipynb_checkpoints/
